@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishal A Farande"
+title                    : "Vishal Farande"
 title_separator          : "-"
-name                     : &name "Vishal A Farande"
+name                     : &name "Vishal Farande"
 description              : &description "Bachelor's student at KLE Technological University  "
 url                      : https://vishal-farande.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vishal Farande"
+  name             : "Vishal Arun Farande"
   avatar           : "profile1.jpg"
   bio              : "Bachelor's Student at KLE Technilogical University"
-  location         : "Hubballi"
+  location         : "Hubballi, "
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=6FgTsPwAAAAJ"
-  email            :
+  email            :  "vishalfarande5@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "vishal-farande"
   google_plus      :
   keybase          :
-  instagram        :  "http://instagram.com/vishalfarande"
+   instagram        :  #"https://instagram.com/vishalfarande"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://linkedin.com/in/vishalfarande"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
