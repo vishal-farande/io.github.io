@@ -25,15 +25,16 @@ Work experience
 * Aug 2023 - Dec 2023: Research Student
   * KLE Technological University
   * Duties: 
-    * An open system to improve drug discovery for Pharmaceutical.
-    * Analyzing diabetic ligand on all protein using binding affinity.
+    1. Built a ML algorithm to improve drug discovery for pharmaceutical.
+    2. Analyzing diabetic ligand on all protein using binding affinity.
   * Supervisor: Prof. Padmashsree Desai
+
 
 * Aug 2022 - May 2023: Project Intern
   * Dana Anand Private Ltd
   * Duties: 
-    * Build a vision system which will identify the grooving in the tube yoke used in drive shaft.
-    * Working on deploying the models to the existing system & improving their accuracy.
+    1. Built a vision system which will identify the grooving in the tube yoke used in drive shaft.
+    2. Working on deploying the models to the existing system & improving their accuracy.
   
   
 Skills
@@ -44,9 +45,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
-* Languages: C++ C Python Javascript Swift
-* Developer Tools: Linux Git Jupyter
-* ETL Tool: Informatica 10 Xcode
+* Languages: C++, C, Python, Javascript, Swift
+* Developer Tools: Linux, Git, Jupyter, Xcode
+* ETL Tool: Informatica 10 
 
 <!-- Publications
 ======
