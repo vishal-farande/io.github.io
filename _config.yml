@@ -83,11 +83,11 @@ author:
   name             : "Vishal Arun Farande"
   avatar           : "profile1.jpg"
   bio              : "Bachelor's Student at KLE Technilogical University"
-  location         : "Hubballi"
+  location         : "Hubballi, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=6FgTsPwAAAAJ"
-  email            :  "vishalfarande5@gmail.com"
+  email            : "vishalfarande5@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
    instagram        :  #"https://instagram.com/vishalfarande"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://linkedin.com/in/vishalfarande"
+  linkedin         :  "vishalfarande"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
