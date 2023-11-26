@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * B.E. in Computer Science, KLE Technological University, 2024
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
@@ -24,10 +22,11 @@ Work experience
 
 * Aug 2023 - Dec 2023: Research Student
   * KLE Technological University
+  * Supervisor: Prof. Padmashsree Desai
   * Duties: 
     1. Built a ML algorithm to improve drug discovery for pharmaceutical.
     2. Analyzing diabetic ligand on all protein using binding affinity.
-  * Supervisor: Prof. Padmashsree Desai
+  
 
 
 * Aug 2022 - May 2023: Project Intern
