@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an engineering student with a passion for emerging technologies like machine learning, IoT, and cloud computing. I have a strong foundation in programming, software development, and database management. I also have experience in sports and arts, which helped me develop interpersonal skills and teamwork. I'm eager to use my technical expertise and people skills to contribute to innovative solutions in engineering.
+I am a backend software engineer specializing in Java, SpringBoot and microservices. At Informatica, I design and develop scalable API sevices, implement AOP-based solutions, and work on policy validation to improve performance. I also have experience with automaion testing using Karate as part of software development.
+Beyond work, I volunteer with "Let's Be The Change", contributing to sustanibility efforts for a cleaner and greener India.
+In my free time, I enjoy morning runs, exploring lesser-known places around Bengaluru, and occasional trekking. My journey from an engineering student to a backend developer has been driven by a passion for technology, problem solving, continuous learning.
 
 For more details, check out my [CV](/files/Resume_Vishal.pdf) 
 
