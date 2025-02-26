@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a backend software engineer specializing in Java, SpringBoot and microservices. At Informatica, I design and develop scalable API sevices, implement AOP-based solutions, and work on policy validation to improve performance. I also have experience with automaion testing using Karate as part of software development.
+
 Beyond work, I volunteer with "Let's Be The Change", contributing to sustanibility efforts for a cleaner and greener India.
+
 In my free time, I enjoy morning runs, exploring lesser-known places around Bengaluru, and occasional trekking. My journey from an engineering student to a backend developer has been driven by a passion for technology, problem solving, continuous learning.
 
 For more details, check out my [CV](/files/Resume_Vishal.pdf) 
