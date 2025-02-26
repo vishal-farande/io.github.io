@@ -28,12 +28,16 @@ Work experience
     3. Engaging with automation testing using Karate as part of software development.
 
 
+
+
 * Jan 2024 - May 2024: AI and Software Intern
   * EinetCorp Private Limited
   * Duties:
     1. Developed a real-time application pipeline for processing visual data using Python, OpenCV.
     2. Integrated OCR object detection for accessibility tools, improving recognition accuracy.
     3. Built a scalable backend API to support AI workloads on Raspberry Pi Hailo AI processor.
+
+
 
 
 * Aug 2023 - Dec 2023: Research Student
@@ -43,6 +47,8 @@ Work experience
     1. Built a ML algorithm to improve drug discovery for pharmaceutical.
     2. Analyzing diabetic ligand on all protein using binding affinity.
     3. Implemented a novel approach to predict the binding affinity of a ligand to a protein.
+
+
 
 
 * Aug 2022 - May 2023: Project Intern
